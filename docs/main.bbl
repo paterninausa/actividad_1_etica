@@ -260,13 +260,15 @@
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Assessing adverse impact in software, algorithms, and artificial intelligence used in employment selection procedures under Title VII of the Civil Rights Act of 1964}
+      \field{month}{5}
+      \field{note}{Documento retirado de eeoc.gov en enero de 2025; copia consultada vía ACLU of Massachusetts}
+      \field{title}{Select Issues: Assessing Adverse Impact in Software, Algorithms, and Artificial Intelligence Used in Employment Selection Procedures Under Title VII of the Civil Rights Act of 1964}
       \field{year}{2023}
       \verb{urlraw}
-      \verb https://www.eeoc.gov/laws/guidance/assessing-adverse-impact-software-algorithms-and-artificial-intelligence-used
+      \verb https://data.aclum.org/storage/2025/01/EOCC_www_eeoc_gov_laws_guidance_select-issues-assessing-adverse-impact-software-algorithms-and-artificial.pdf
       \endverb
       \verb{url}
-      \verb https://www.eeoc.gov/laws/guidance/assessing-adverse-impact-software-algorithms-and-artificial-intelligence-used
+      \verb https://data.aclum.org/storage/2025/01/EOCC_www_eeoc_gov_laws_guidance_select-issues-assessing-adverse-impact-software-algorithms-and-artificial.pdf
       \endverb
     \endentry
   \enddatalist

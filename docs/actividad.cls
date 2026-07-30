@@ -15,6 +15,9 @@
 \RequirePackage{etoolbox}
 \definecolor{rojo}{RGB}{255,0,0}
 
+% Excepciones de guionado: evita cortes de línea no deseados en estas palabras
+\hyphenation{Edimburgo sistema sistemas}
+
 \bibliography{bibliography}
 \usepackage{csquotes}
 
