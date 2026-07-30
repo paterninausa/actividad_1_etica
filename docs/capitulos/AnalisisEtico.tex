@@ -1,0 +1,21 @@
+\chapter{ANÁLISIS ÉTICO}
+
+\section{Ética del dato}
+
+Desde la perspectiva de la privacidad, el caso evidencia un tratamiento de datos personales —los currículums de los candidatos— con una finalidad que excedía la evaluación objetiva de competencias, al incorporar de forma no deliberada variables asociadas al género de los solicitantes. Aunque los candidatos entregaban voluntariamente su currículum para ser evaluados, no existía transparencia sobre el hecho de que un sistema automatizado, y no un reclutador humano, determinaría en gran medida su puntuación final.
+
+En cuanto al consentimiento, los candidatos no fueron informados de que sus datos alimentarían un sistema de aprendizaje automático cuya lógica interna era opaca incluso para sus propios desarrolladores. Un consentimiento verdaderamente informado exige comprensión real de las implicaciones del tratamiento; en este caso, ni los candidatos ni, inicialmente, el propio equipo de ingeniería de Amazon comprendían plenamente cómo el sistema llegaba a sus decisiones.
+
+La transparencia resultó también gravemente comprometida. El propio equipo de Amazon tardó aproximadamente un año en detectar que el sistema no evaluaba a los candidatos de forma neutral respecto al género \cite{dastin2018}, lo que ilustra el clásico problema de la ``caja negra'': un sistema que produce resultados sin que sea fácil comprender, ni siquiera para sus creadores, cómo llegó a ellos.
+
+Por último, el principio de minimización de datos se vio comprometido en la medida en que el modelo utilizaba variables curriculares amplias —incluyendo terminología y afiliaciones extracurriculares— que excedían lo estrictamente necesario para evaluar la idoneidad técnica de un candidato, y que terminaron actuando como proxies de género.
+
+\section{Ética de la inteligencia artificial}
+
+El caso Amazon es, ante todo, un ejemplo paradigmático de sesgo algorítmico de tipo histórico: el modelo aprendió de un conjunto de datos que reflejaba una desigualdad estructural preexistente —la infrarrepresentación de mujeres en puestos técnicos— y la reprodujo, e incluso amplificó, presentándola bajo una apariencia de objetividad matemática \cite{raghavan2020,chen2023}. A este sesgo histórico se sumó un sesgo de selección de variables (o ``sesgo de diseño''), derivado de las decisiones técnicas sobre qué características del currículum debían influir en la puntuación final.
+
+En términos de explicabilidad, el sistema constituye un ejemplo claro del problema de la caja negra: ni los propios ingenieros de Amazon podían anticipar con certeza qué patrones lingüísticos concretos estaba penalizando el modelo, lo que dificultó enormemente tanto su corrección como la rendición de cuentas ante los candidatos afectados.
+
+Respecto a la supervisión humana, el sistema se utilizó únicamente como herramienta de apoyo a los reclutadores humanos —nunca se automatizó por completo la decisión de contratación— \cite{infobae2018}, lo que representa una salvaguarda parcial frente a los riesgos de una automatización total. Sin embargo, la ausencia de auditorías periódicas y sistemáticas de equidad por subgrupos permitió que el sesgo pasara inadvertido durante un año completo, lo que evidencia que la mera existencia de supervisión humana no es suficiente si esta no incluye mecanismos activos de detección de discriminación.
+
+Finalmente, en materia de responsabilidad, el caso pone de manifiesto el llamado ``vacío de responsabilidad algorítmica'': pese a que el sistema produjo resultados discriminatorios durante al menos dos años (2015-2017), no se derivaron consecuencias legales o sancionadoras para Amazon en el momento de los hechos, en parte porque el sistema nunca llegó a desplegarse de forma exclusiva y en parte porque, en aquel momento, no existía un marco normativo específico que exigiera auditorías obligatorias de sesgos en sistemas de contratación algorítmica.
