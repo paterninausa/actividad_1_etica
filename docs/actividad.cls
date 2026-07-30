@@ -28,7 +28,7 @@
 
 % --- Capítulos continuos: se elimina el salto de página forzado antes de \chapter ---
 \makeatletter
-\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{\par\vspace{1.8em plus 0.5em minus 0.5em}}{}{}
 \makeatother
 
 \usepackage{titlesec}

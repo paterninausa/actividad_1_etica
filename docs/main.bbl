@@ -1,0 +1,275 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{dastin2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=fe0a91ed503170165d701447b4c6fbdf}{%
+           family={Dastin},
+           familyi={D\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe0a91ed503170165d701447b4c6fbdf}
+      \strng{fullhash}{fe0a91ed503170165d701447b4c6fbdf}
+      \strng{bibnamehash}{fe0a91ed503170165d701447b4c6fbdf}
+      \strng{authorbibnamehash}{fe0a91ed503170165d701447b4c6fbdf}
+      \strng{authornamehash}{fe0a91ed503170165d701447b4c6fbdf}
+      \strng{authorfullhash}{fe0a91ed503170165d701447b4c6fbdf}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{note}{Reuters}
+      \field{title}{Amazon scraps secret AI recruiting tool that showed bias against women}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G
+      \endverb
+      \verb{url}
+      \verb https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G
+      \endverb
+    \endentry
+    \entry{chen2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=788c2c735a2d2ce6f158c662305c9a8f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhisheng},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{788c2c735a2d2ce6f158c662305c9a8f}
+      \strng{fullhash}{788c2c735a2d2ce6f158c662305c9a8f}
+      \strng{bibnamehash}{788c2c735a2d2ce6f158c662305c9a8f}
+      \strng{authorbibnamehash}{788c2c735a2d2ce6f158c662305c9a8f}
+      \strng{authornamehash}{788c2c735a2d2ce6f158c662305c9a8f}
+      \strng{authorfullhash}{788c2c735a2d2ce6f158c662305c9a8f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humanities and Social Sciences Communications}
+      \field{title}{Ethics and discrimination in artificial intelligence-enabled recruitment practices}
+      \field{volume}{10}
+      \field{year}{2023}
+      \field{pages}{567}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1057/s41599-023-02079-x
+      \endverb
+    \endentry
+    \entry{infobae2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=fe35faea28cd6e30b2a7ee0f68b0a699}{%
+           family={{Redacción Infobae}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe35faea28cd6e30b2a7ee0f68b0a699}
+      \strng{fullhash}{fe35faea28cd6e30b2a7ee0f68b0a699}
+      \strng{bibnamehash}{fe35faea28cd6e30b2a7ee0f68b0a699}
+      \strng{authorbibnamehash}{fe35faea28cd6e30b2a7ee0f68b0a699}
+      \strng{authornamehash}{fe35faea28cd6e30b2a7ee0f68b0a699}
+      \strng{authorfullhash}{fe35faea28cd6e30b2a7ee0f68b0a699}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{note}{Infobae}
+      \field{title}{Por qué Amazon dejó de utilizar una inteligencia artificial que revisaba los CV de posibles candidatos}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.infobae.com/america/tecno/2018/10/12/por-que-amazon-dejo-de-utilizar-una-inteligencia-artificial-que-revisaba-los-cv-de-posibles-candidatos/
+      \endverb
+      \verb{url}
+      \verb https://www.infobae.com/america/tecno/2018/10/12/por-que-amazon-dejo-de-utilizar-una-inteligencia-artificial-que-revisaba-los-cv-de-posibles-candidatos/
+      \endverb
+    \endentry
+    \entry{kochling2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9709711e9d62508fe055bbd841eaa8a5}{%
+           family={Köchling},
+           familyi={K\bibinitperiod},
+           given={Alina},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a54c74c2deef36772af367f07b093f63}{%
+           family={Wehner},
+           familyi={W\bibinitperiod},
+           given={Marius\bibnamedelima Claus},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a50d8c09b344b5192079a113a58dc1a}
+      \strng{fullhash}{5a50d8c09b344b5192079a113a58dc1a}
+      \strng{bibnamehash}{5a50d8c09b344b5192079a113a58dc1a}
+      \strng{authorbibnamehash}{5a50d8c09b344b5192079a113a58dc1a}
+      \strng{authornamehash}{5a50d8c09b344b5192079a113a58dc1a}
+      \strng{authorfullhash}{5a50d8c09b344b5192079a113a58dc1a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Business Research}
+      \field{number}{3}
+      \field{title}{Discriminated by an algorithm: a systematic review of discrimination and fairness by algorithmic decision-making in the context of HR recruitment and HR development}
+      \field{volume}{13}
+      \field{year}{2020}
+      \field{pages}{795\bibrangedash 848}
+      \range{pages}{54}
+      \verb{doi}
+      \verb 10.1007/s40685-020-00134-w
+      \endverb
+    \endentry
+    \entry{raghavan2020}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=94c87c71bf2fc02be222df4cf15f575a}{%
+           family={Raghavan},
+           familyi={R\bibinitperiod},
+           given={Manish},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cb55e045fbd37698b0b60a60b567ab83}{%
+           family={Barocas},
+           familyi={B\bibinitperiod},
+           given={Solon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e405ae3c720db1b0e447ff5b601b968f}{%
+           family={Kleinberg},
+           familyi={K\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fb01a2f34f2cdef5afdc02a41d4db11c}{%
+           family={Levy},
+           familyi={L\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{64fb32320c46f597fe06226148789045}
+      \strng{fullhash}{b56ce9d70bf0fca7f324973538e88e77}
+      \strng{bibnamehash}{b56ce9d70bf0fca7f324973538e88e77}
+      \strng{authorbibnamehash}{b56ce9d70bf0fca7f324973538e88e77}
+      \strng{authornamehash}{64fb32320c46f597fe06226148789045}
+      \strng{authorfullhash}{b56ce9d70bf0fca7f324973538e88e77}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency}
+      \field{title}{Mitigating bias in algorithmic hiring: Evaluating claims and practices}
+      \field{year}{2020}
+      \field{pages}{469\bibrangedash 481}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1145/3351095.3372828
+      \endverb
+    \endentry
+    \entry{rgpd2016}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=584768e1bea5ebe983bb8f68913f73d1}{%
+           family={{Parlamento Europeo y Consejo de la Unión Europea}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{584768e1bea5ebe983bb8f68913f73d1}
+      \strng{fullhash}{584768e1bea5ebe983bb8f68913f73d1}
+      \strng{bibnamehash}{584768e1bea5ebe983bb8f68913f73d1}
+      \strng{authorbibnamehash}{584768e1bea5ebe983bb8f68913f73d1}
+      \strng{authornamehash}{584768e1bea5ebe983bb8f68913f73d1}
+      \strng{authorfullhash}{584768e1bea5ebe983bb8f68913f73d1}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Diario Oficial de la Unión Europea, L 119/1}
+      \field{title}{Reglamento (UE) 2016/679, Reglamento General de Protección de Datos}
+      \field{year}{2016}
+    \endentry
+    \entry{aiact2024}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=584768e1bea5ebe983bb8f68913f73d1}{%
+           family={{Parlamento Europeo y Consejo de la Unión Europea}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{584768e1bea5ebe983bb8f68913f73d1}
+      \strng{fullhash}{584768e1bea5ebe983bb8f68913f73d1}
+      \strng{bibnamehash}{584768e1bea5ebe983bb8f68913f73d1}
+      \strng{authorbibnamehash}{584768e1bea5ebe983bb8f68913f73d1}
+      \strng{authornamehash}{584768e1bea5ebe983bb8f68913f73d1}
+      \strng{authorfullhash}{584768e1bea5ebe983bb8f68913f73d1}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Diario Oficial de la Unión Europea}
+      \field{title}{Reglamento (UE) 2024/1689, por el que se establecen normas armonizadas en materia de inteligencia artificial (Ley de Inteligencia Artificial)}
+      \field{year}{2024}
+    \endentry
+    \entry{lopdgdd2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=98276e48ea5cbfeac788d46df9704c03}{%
+           family={{Jefatura del Estado (España)}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{98276e48ea5cbfeac788d46df9704c03}
+      \strng{fullhash}{98276e48ea5cbfeac788d46df9704c03}
+      \strng{bibnamehash}{98276e48ea5cbfeac788d46df9704c03}
+      \strng{authorbibnamehash}{98276e48ea5cbfeac788d46df9704c03}
+      \strng{authornamehash}{98276e48ea5cbfeac788d46df9704c03}
+      \strng{authorfullhash}{98276e48ea5cbfeac788d46df9704c03}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Boletín Oficial del Estado, núm. 294}
+      \field{title}{Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales}
+      \field{year}{2018}
+    \endentry
+    \entry{eeoc2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7d921703559b922c22500d21698b974f}{%
+           family={{U.S. Equal Employment Opportunity Commission}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d921703559b922c22500d21698b974f}
+      \strng{fullhash}{7d921703559b922c22500d21698b974f}
+      \strng{bibnamehash}{7d921703559b922c22500d21698b974f}
+      \strng{authorbibnamehash}{7d921703559b922c22500d21698b974f}
+      \strng{authornamehash}{7d921703559b922c22500d21698b974f}
+      \strng{authorfullhash}{7d921703559b922c22500d21698b974f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Assessing adverse impact in software, algorithms, and artificial intelligence used in employment selection procedures under Title VII of the Civil Rights Act of 1964}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.eeoc.gov/laws/guidance/assessing-adverse-impact-software-algorithms-and-artificial-intelligence-used
+      \endverb
+      \verb{url}
+      \verb https://www.eeoc.gov/laws/guidance/assessing-adverse-impact-software-algorithms-and-artificial-intelligence-used
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
