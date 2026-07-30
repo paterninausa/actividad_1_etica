@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1785420249.89008 "main.bcf" "main.bbl" "main" 1785420654.02922 0
+["biber main"] 1785423580.73184 "main.bcf" "main.bbl" "main" 1785423953.04543 0
   "bibliography.bib" 1785414438.61386 3968 53516f62d2ca82651026ce2ace329531 ""
-  "main.bcf" 1785420653.98222 110029 336f745344b8fc54fbffacc528ee5660 "pdflatex"
+  "main.bcf" 1785423952.99534 110157 02d02e41cd75751aa58e71ff30782e7f "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1785420653.06538 "/home/pater/ueaMasterBD/actividad_1_etica/docs/main.tex" "main.pdf" "main" 1785420654.02953 0
+["pdflatex"] 1785423951.99632 "/home/pater/ueaMasterBD/actividad_1_etica/docs/main.tex" "main.pdf" "main" 1785423953.04572 0
   "/etc/texmf/web2c/texmf.cnf" 1783016783.04239 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/pater/ueaMasterBD/actividad_1_etica/docs/main.tex" 1785416321.74944 435 8b00eb04284e5c467ba8a69c0fc3e52c ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -112,18 +112,18 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1783016794.73041 5312232 f3296911be9cc021788f3f879cf0a47d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1783016814 6822845 a14125849bd056948643269241c54ee8 ""
-  "actividad.cls" 1785416597.59396 3415 fd96f21934f4d14dfdc8944e551b80a6 ""
-  "capitulos/AnalisisEtico.tex" 1785417475.30328 4032 35019f2073cb7dd1ed526b5cd877cd8a ""
-  "capitulos/AnalisisRegulatorio.tex" 1785420652.86222 4411 4788ac2c86a2915e5541533f807f2aa2 ""
+  "actividad.cls" 1785422411.50725 3415 1a4292b0e67e456726c48feff9314ba7 ""
+  "capitulos/AnalisisEtico.tex" 1785423237.77435 4034 fdb8811d7c06a3bc773353134b36575e ""
+  "capitulos/AnalisisRegulatorio.tex" 1785423579.56005 4433 22611a9aaf73344d879b822de7a01326 ""
   "capitulos/Hechos.tex" 1785419929.1048 2411 e5726e6ca9bb55649636c7d6332a81ae ""
-  "capitulos/Introduccion.tex" 1785420004.93043 2396 43b029319fa6d1e816b0e1eaa0914cd6 ""
+  "capitulos/Introduccion.tex" 1785423793.94799 2379 65f52bc8dc8e2a490912fdd4ebacd891 ""
   "capitulos/Referencias.tex" 1785414438.6141 71 595cafbc65a39d1248aef9efd6ee5b89 ""
-  "capitulos/ReflexionCritica.tex" 1785414438.6141 3307 f76162391a716f92c165159fcf04c576 ""
+  "capitulos/ReflexionCritica.tex" 1785423951.80407 3307 40d8af3bae955fe8d6a900351ff73aa3 ""
   "datos.tex" 1785414438.6141 327 7bfc1747a0db6952b44c181636d8bb8c ""
   "imagenes/logo_ue.png" 1785414438.6141 40668 e72ba6b0fbf45417dcbeda4f1b88e507 ""
-  "main.aux" 1785420653.97942 6875 4ca5437c7472652bb9b2ad9feb5b3154 "pdflatex"
-  "main.bbl" 1785420250.47591 11940 bef781e64b150d3a61780a6aef21e8be "biber main"
-  "main.run.xml" 1785420653.98445 2435 5771f3f092c38a70e8998fd6000aad44 "pdflatex"
+  "main.aux" 1785423952.99334 6989 e5ea318f551ef69f374a11593beae996 "pdflatex"
+  "main.bbl" 1785423581.35833 11940 bef781e64b150d3a61780a6aef21e8be "biber main"
+  "main.run.xml" 1785423952.99954 2435 5771f3f092c38a70e8998fd6000aad44 "pdflatex"
   "main.tex" 1785416321.74944 435 8b00eb04284e5c467ba8a69c0fc3e52c ""
   (generated)
   "main.aux"

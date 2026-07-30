@@ -64,7 +64,7 @@
     \rhead{\raisebox{-0.4\height}{\includegraphics[height=1cm]{imagenes/logo_ue.png}}} % Encabezado derecho con el logo
     \cfoot{\thepage} % Pie de página con el número de página
     \renewcommand{\headrulewidth}{0.7pt} % Establece el grosor de la línea del encabezado
-    \setlength{\headheight}{57.30338pt} % Increase headheight
+    \setlength{\headheight}{57.53285pt} % Increase headheight
 
 % Redefinir el estilo de página 'plain' para que coincida con 'fancy'
 \fancypagestyle{plain}{
@@ -73,7 +73,7 @@
     \rhead{\raisebox{-0.4\height}{\includegraphics[height=1cm]{imagenes/logo_ue.png}}}
     \cfoot{\thepage}
     \renewcommand{\headrulewidth}{0.7pt}
-    \setlength{\headheight}{57.30338pt}
+    \setlength{\headheight}{57.53285pt}
 }
 
 % Espaciado interlineal
